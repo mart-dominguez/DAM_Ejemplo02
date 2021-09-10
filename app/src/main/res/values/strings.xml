@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo Intent explicito</string>
+    <string name="act1_title">Hola ACT 1</string>
+    <string name="act2_title">HOLA ACTIVIDAD 2</string>
+    <string name="act1_btn1_text">Ir a Actividad 2</string>
+    <string name="act1_btn2_text">Ir a Actividad 2 2</string>
+    <string name="act2_btn1_text">Ir a Actividad 1</string>
+</resources>
